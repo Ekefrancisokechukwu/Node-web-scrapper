@@ -4,7 +4,7 @@
   "description": "A node js web scrapper",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "nodemon index.js",
     "test": "jest"
   },
   "author": "Eke Francis okechukwu",
